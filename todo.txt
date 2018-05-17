@@ -1,10 +1,10 @@
 remove Sacremento font reference		DONE
-adjust thickness of navbar				
-change background color					
+adjust thickness of navbar				NO NEED
+change background color				NO NEED
 
 
 
-things to put in form
+things to put in form DONE
 	name
 	roll no
 	webmail
@@ -16,6 +16,6 @@ things to put in form
 	proof of leave attachment
 
 
-save input and output as table
+save input and output as table	DONE
 
-calculate no of days and find total refund
+calculate no of days and find total refund	DONE

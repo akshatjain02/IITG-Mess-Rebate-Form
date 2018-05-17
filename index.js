@@ -20,14 +20,14 @@ function success()
 	p = document.querySelector("#id5");
 	p.innerHTML = document.querySelector("#room").value;
 	p = document.querySelector("#id6");
-	p.innerHTML = document.querySelector("#hostelsub").options[document.querySelector("#hostelres").selectedIndex].text;
+	p.innerHTML = document.querySelector("#hostelsub").options[document.querySelector("#hostelsub").selectedIndex].text;
 	p = document.querySelector("#id7");
 	p.innerHTML = document.querySelector("#dol").value;
 	p = document.querySelector("#id8");
 	p.innerHTML = days + " days";
 	p = document.querySelector("#id9");
 	p.innerHTML = document.querySelector("#proof").value;
-	var pr1 = document.querySelector("#haha");
+	var pr1 = document.querySelector("#tablediv");
 	pr1.style.display = "";
 	var pr2 = document.getElementById("refundmoney").innerHTML = "Total refund money = Rs " + days*72 + "/-";
 };
