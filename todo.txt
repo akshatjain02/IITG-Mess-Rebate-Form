@@ -1,0 +1,21 @@
+remove Sacremento font reference		DONE
+adjust thickness of navbar				
+change background color					
+
+
+
+things to put in form
+	name
+	roll no
+	webmail
+	hostel
+	room no
+	hostel subscribed
+	start date of leave
+	end date of leave
+	proof of leave attachment
+
+
+save input and output as table
+
+calculate no of days and find total refund

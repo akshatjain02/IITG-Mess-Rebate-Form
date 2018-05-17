@@ -1,0 +1,65 @@
+body{
+	background-color: #2885cc5e;
+}
+
+.img-fluid {
+  max-width: 8%;
+  height: auto;
+}
+
+.navbar{
+	font-family: 'Comfortaa', cursive;
+	font-size: 20px;
+	background-color: #1f4061
+}
+
+h1{
+	font-family: 'Poiret One', cursive;
+	font-size: 45px;
+	text-align: center;
+	color: #000;
+}
+
+.jumbotron{
+	background-color: #1f4061;
+}
+
+p{
+	color: #e6ffff;
+	font-size: 20px;
+	font-family: 'Comfortaa', cursive;
+}
+
+.gentext{
+	color: #e6ffff;
+	font-size: 20px;
+	font-family: 'Comfortaa', cursive;
+}
+
+.fa {
+    padding: 17px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-github {
+    background: black;
+    color: white;
+}
+
